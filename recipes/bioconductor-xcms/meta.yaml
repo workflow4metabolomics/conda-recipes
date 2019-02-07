@@ -7,10 +7,10 @@ package:
   version: '{{ version }}'
 source:
   url:
-    - 'https://github.com/sneumann/xcms/archive/8fc913cc47d97b6492fad79f9d47cf1b4a7d44fa.zip'
-  sha256: a687330dfc34ce65c701d1b5a27bc68990cdf28597755c5567a76e5c59e8a3a8
+    - 'https://github.com/sneumann/xcms/archive/e6b98a1c91f6d04f810e6413440e1eba398df8a0.zip'
+  sha256: c0a20483bbcf241d1f6aae9b0c220e7794a2a0b278ac4eaa8f5d0c3d9815936a
 build:
-  number: 0
+  number: 1
   rpaths:
     - lib/R/lib/
     - lib/
